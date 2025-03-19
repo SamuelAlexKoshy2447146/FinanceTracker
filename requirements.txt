@@ -1,0 +1,7 @@
+streamlit
+speechrecognition
+sounddevice
+numpy
+pandas
+matplotlib
+nltk
